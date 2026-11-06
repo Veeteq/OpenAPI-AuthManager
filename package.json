@@ -2,7 +2,7 @@
   "name": "auth-openapi",
   "version": "1.0.0",
   "dependencies": {
-    "@redocly/cli": "2.55.0"
+    "@redocly/cli": "2.73.0"
   },
   "private": true,
   "scripts": {
